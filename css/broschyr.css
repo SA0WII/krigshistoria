@@ -1,0 +1,49 @@
+/*:root {
+    --frontpage-bg-clr: #c2c2a6;
+    --page-bg-clr: #e6e49d;
+}*/
+
+
+img {
+    max-width: 100%;
+}
+
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
+}
+
+.side {
+    width: 90%;
+
+
+    padding: 50px 50px 50px 50px;
+}
+
+.page {
+    text-align: center;
+    box-sizing: border-box;
+    width: 30%;
+    aspect-ratio: 1 / 2.12;
+    float: left;
+
+    padding: 5px;
+    background-color: var(--page-bg-clr);
+
+    box-shadow: 0 0 5px 2px inset #222222;
+}
+
+.page h1,h2,h3,h4,h5,h6,p {
+    display: block;
+}
+
+.page img {
+    height: 20%;
+}
+
+.cover {
+    background-color: var(--frontpage-bg-clr);
+}
