@@ -1,19 +1,53 @@
 .bomb{
     margin: 0 0 20px 0;
     font-size: 12px;
+    text-align: center;
 }
 
 p {
-    font-size: 20px;
+    font-size: 18px;
     margin: 0 25px 0 25px;
+    text-align: left;
+    
 }
 
 h3 {
     font-size: 30px;
 }
 
+h4 {
+    font-size: 25px;
+    margin-bottom: -20px;
+}
+
+h5 {
+    font-size: 14px;
+    margin-bottom: -20px;
+}
+
+h6 {
+    font-size: 18px;
+    text-align: left;
+    margin-left: 25px;
+    margin-bottom: 0px;
+}
+
 img {
     width: 330px;
     height: auto;
     margin: -10px 0 0 0;
+}
+
+ul {
+    text-align: left;
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.info-flygplan {
+    margin-top: 40px;
+}
+
+img[src="img/tsarbomb.jpg"] {
+    margin-top: 40px;
 }
