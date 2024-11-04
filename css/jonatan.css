@@ -1,5 +1,5 @@
 .bomb{
-    margin: 0 0 20px 0;
+    margin: 5px 0 25px 0;
     font-size: 12px;
     text-align: center;
 }
@@ -13,6 +13,12 @@ p {
 
 h3 {
     font-size: 30px;
+}
+
+h2 {
+    color: red;
+    margin-top: -20px;
+    margin-bottom: 25px;
 }
 
 h4 {
