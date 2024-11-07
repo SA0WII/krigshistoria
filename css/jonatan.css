@@ -6,13 +6,12 @@
 
 p {
     font-size: 18px;
-    margin: 0 25px 0 25px;
     text-align: left;
-    
 }
 
 h3 {
     font-size: 30px;
+    margin-top: 5px;
 }
 
 h2 {
@@ -29,13 +28,13 @@ h4 {
 h5 {
     font-size: 14px;
     margin-bottom: -20px;
+    margin-top: -10px;
 }
 
 h6 {
     font-size: 18px;
     text-align: left;
-    margin-left: 25px;
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 
 img {
@@ -55,5 +54,57 @@ ul {
 }
 
 img[src="img/tsarbomb.jpg"] {
+    margin-top: 30px;
+    margin-bottom: -10px
+
+}
+
+.inledning {
+    margin: 22px 0 0 0;
+}
+
+.page, .page-cover {
+    padding: 25px;
+}
+
+.sista-bild {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text1 {
+    margin: 25px 0 40px 0;
+}
+
+.text2 {
+    margin: 0 0 40px 0;
+}
+
+.första-sida-info {
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+
+.andra-sida-text {
+    margin-bottom: -20px;
+}
+
+img[src="img/teknik1.png"] {
     margin-top: 40px;
+}
+
+img[src="img/teknik2.png"] {
+    margin-top: 40px;
+}
+
+img[src="img/teknik3.png"] {
+    margin-top: 40px;
+}
+
+.rubrik-sida-5 {
+    margin-top: 10px;
+}
+
+.mindre-margin {
+    margin-bottom: -20px;
 }
