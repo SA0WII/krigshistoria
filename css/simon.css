@@ -1,0 +1,80 @@
+.drone {
+    max-height: 500px;
+    max-width: auto;
+    scale: 1.37;
+}
+
+.drone {
+    max-height: 500px;
+    max-width: auto;
+    scale: 1;
+}
+
+.MQ9 {
+    margin-top: 15px;
+    max-height: 500px;
+    max-width: auto;
+    scale: 1.4;
+    margin-bottom: 15px;
+}
+
+/*:root {
+    --frontpage-bg-clr: #c2c2a6;
+    --page-bg-clr: #e6e49d;
+}*/
+
+
+img {
+    max-width: 70%;
+    padding: 5px;
+}
+
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
+}
+
+.side {
+    width: 90%;
+
+
+    padding: 50px 50px 50px 50px;
+}
+
+.page {
+    text-align: center;
+    box-sizing: border-box;
+    width: 33.33%;
+    aspect-ratio: 1 / 2.2;
+    float: left;
+
+    padding: 5px;
+    background-color: var(--page-bg-clr);
+
+    box-shadow: 0 0 5px 2px inset #222222;
+}
+
+.page h1,h2,h3,h4,h5,h6,p {
+    display: block;
+}
+
+
+.cover {
+    background-color: var(--frontpage-bg-clr);
+}
+
+h1, p {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+}
+
+.description {
+    margin: 20px;
+}
+
+.logga {
+    transform: rotate(-90deg);
+    max-width: 110px;
+}
