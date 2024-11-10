@@ -1,0 +1,13 @@
+.page:has(.qr_code) {
+    display: flex;
+}
+
+.qr_code {
+    width: 50%;
+    flex: 0 1 auto;
+    align-self: flex-end;
+}
+
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
