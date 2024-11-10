@@ -1,1 +1,2 @@
 img/gpssat.jpg filter=lfs diff=lfs merge=lfs -text
+img/Nokia_1011_museum.jpg filter=lfs diff=lfs merge=lfs -text
