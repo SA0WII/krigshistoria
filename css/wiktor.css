@@ -1,0 +1,55 @@
+
+p {
+    font-size: 18px;
+    text-align: left;
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+h2 {
+    color: red;
+    margin-top: -20px;
+    margin-bottom: 25px;
+}
+
+h4 {
+    font-size: 25px;
+    margin-bottom: -20px;
+}
+
+h5 {
+    font-size: 14px;
+    margin-bottom: -20px;
+    margin-top: -10px;
+}
+
+h6 {
+    font-size: 18px;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+img {
+    width: 330px;
+    height: auto;
+    margin: -10px 0 0 0;
+}
+
+ul {
+    text-align: left;
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.page, .page-cover {
+    padding: 25px;
+}
+
+.undertext {
+    margin: 5px 0 25px 0;
+    font-size: 12px;
+    text-align: center;
+}
