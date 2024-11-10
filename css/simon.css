@@ -1,3 +1,23 @@
+.drone {
+    max-height: 500px;
+    max-width: auto;
+    scale: 1.37;
+}
+
+.drone {
+    max-height: 500px;
+    max-width: auto;
+    scale: 1;
+}
+
+.MQ9 {
+    margin-top: 15px;
+    max-height: 500px;
+    max-width: auto;
+    scale: 1.4;
+    margin-bottom: 15px;
+}
+
 /*:root {
     --frontpage-bg-clr: #c2c2a6;
     --page-bg-clr: #e6e49d;
@@ -5,7 +25,8 @@
 
 
 img {
-    max-width: 100%;
+    max-width: 70%;
+    padding: 5px;
 }
 
 
@@ -26,8 +47,8 @@ main {
 .page {
     text-align: center;
     box-sizing: border-box;
-    width: 30%;
-    aspect-ratio: 1 / 2.12;
+    width: 33.33%;
+    aspect-ratio: 1 / 2.2;
     float: left;
 
     padding: 5px;
@@ -40,10 +61,20 @@ main {
     display: block;
 }
 
-.page img {
-    height: 20%;
-}
 
 .cover {
     background-color: var(--frontpage-bg-clr);
+}
+
+h1, p {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+}
+
+.description {
+    margin: 20px;
+}
+
+.logga {
+    transform: rotate(-90deg);
+    max-width: 110px;
 }
