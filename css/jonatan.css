@@ -1,0 +1,110 @@
+.bomb{
+    margin: 5px 0 25px 0;
+    font-size: 12px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: left;
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+h2 {
+    color: red;
+    margin-top: -20px;
+    margin-bottom: 25px;
+}
+
+h4 {
+    font-size: 25px;
+    margin-bottom: -20px;
+}
+
+h5 {
+    font-size: 14px;
+    margin-bottom: -20px;
+    margin-top: -10px;
+}
+
+h6 {
+    font-size: 18px;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+img {
+    width: 330px;
+    height: auto;
+    margin: -10px 0 0 0;
+}
+
+ul {
+    text-align: left;
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.info-flygplan {
+    margin-top: 40px;
+}
+
+img[src="img/tsarbomb.jpg"] {
+    margin-top: 30px;
+    margin-bottom: -10px
+
+}
+
+.inledning {
+    margin: 22px 0 0 0;
+}
+
+.page, .page-cover {
+    padding: 25px;
+}
+
+.sista-bild {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text1 {
+    margin: 25px 0 40px 0;
+}
+
+.text2 {
+    margin: 0 0 40px 0;
+}
+
+.första-sida-info {
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+
+.andra-sida-text {
+    margin-bottom: -20px;
+}
+
+img[src="img/teknik1.png"] {
+    margin-top: 40px;
+}
+
+img[src="img/teknik2.png"] {
+    margin-top: 40px;
+}
+
+img[src="img/teknik3.png"] {
+    margin-top: 40px;
+}
+
+.rubrik-sida-5 {
+    margin-top: 10px;
+}
+
+.mindre-margin {
+    margin-bottom: -20px;
+}
