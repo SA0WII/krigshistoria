@@ -44,12 +44,17 @@ ul {
     margin-top: 0px;
 }
 
-.page, .page-cover {
+.page {
     padding: 25px;
+    font-family: 'Arial', sans-serif;
 }
 
 .undertext {
     margin: 5px 0 25px 0;
     font-size: 12px;
     text-align: center;
+}
+
+.cover {
+    font-style: italic;
 }
