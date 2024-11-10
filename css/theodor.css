@@ -1,12 +1,11 @@
 .page:has(.qr_code) {
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
 }
 
 .qr_code {
     width: 50%;
     flex: 0 1 auto;
+    align-self: flex-end;
 }
 
 p {
